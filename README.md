@@ -44,7 +44,8 @@ capsule(radius = 8, length = 20);
 capsule(radius = 7, length = 14);
 ```
 
-See [`examples/capsule_example.scad`](examples/capsule_example.scad) for a runnable demo.
+See [`examples/capsule_example.scad`](examples/capsule_example.scad) for a runnable demo, or
+**[▶ Open in SCAD Studio](https://lizard-spock.co.uk/openscad-gui/?github=morganp/openscad-interesting-shapes/examples/capsule_example.scad)** to view it in the browser, no install.
 
 ---
 
